@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages/Wpf.Themes.1.1.0/Wpf.Themes.1.1.0.nupkg
